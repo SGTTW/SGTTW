@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @SGTTW
-- 👀 I’m interested in front web development and backend development
-- 🌱 I’m currently learning front web development
-- 💞️ I’m looking to collaborate on front web and back end developers 
-- 📫 How to reach me front both front web and back end development
+- 👋 Hello, my name is Oluwasegun Adeniyi
+- 👀 UI UX Designer and Frontend Developer with 3+ years of
+      experience in delivering high-quality, pixel-perfect
+      designs and responsive web applications. Excellent team
+      player with effective communication skills and a proven
+      track record of meeting project deadlines.
+- 🌱 On continuous learning and project building.
+- 💞️ I’m open to contributing to open sourse projects, and collaborating with deigners, frontend & backend developers to create and bring ideas to life.
+- 📫 https://sgttwportfolio.netlify.app/
 
 <!---
 SGTTW/SGTTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
