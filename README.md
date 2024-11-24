@@ -6,7 +6,7 @@
       track record of meeting project deadlines.
 - 🌱 On continuous learning and project building.
 - 💞️ I’m open to contributing to open sourse projects, and collaborating with deigners, frontend & backend developers to create and bring ideas to life.
-- 📫 https://sgttwportfolio.netlify.app/
+- 📫  https://oluwasegun-adeniyi.netlify.app/
 
 <!---
 SGTTW/SGTTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
